@@ -1,6 +1,4 @@
----
-layout: default
-title: Terms of Use
+Terms of Use
 ---Effective date: 10/14/2026
 Operator: Pool Deck
 Contact: jeff@peg-land.com
