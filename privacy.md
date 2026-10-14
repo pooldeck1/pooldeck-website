@@ -1,6 +1,4 @@
----
-layout: default
-title: Privacy Policy
+Privacy Policy
 ---Effective date: 10/14/2026
 Operator: Pool Deck
 Contact: jeff@peg-land.com
